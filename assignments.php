@@ -6,7 +6,10 @@
                 <h1 class="school parrallax section-heading">Assignments</h1>
             </div><!-- subpage-header -->
             <div class="container body-content-wrapper">
-                <h1>Page Coming Soon</h1>
+                <h1>Assignments</h1>
+                <ul>
+                    <li><a href="/cs313/assignments/survey">PHP Survey</a></li>
+                </ul>
             </div><!-- body-content-wrapper -->
         </div><!-- body-content -->
 
