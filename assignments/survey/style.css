@@ -1,0 +1,12 @@
+body{
+    background: #eee !important;
+}
+.bg-white{
+    background: #fff !important;
+}
+
+input[type="radio"],input[type="checkbox"] {
+    width: auto !important;
+    padding-left: 10px !important;
+    margin-left: 10px !important;
+}
